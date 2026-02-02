@@ -1,0 +1,7 @@
+{
+  "name": "Neveaux Capital",
+  "description": "Premium residential and commercial construction services based in Katy, TX. Serving the Greater Houston area with excellence.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
